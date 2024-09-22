@@ -1,1 +1,11 @@
-# weather-forecasting
+# Machine-Learning-Model-for-Weather-Forecasting
+# Algorithms
+predict temperature using various algorithms, including linear regression, random forest regression, and decision tree regression, based on the Global Weather Repository dataset, which provides four months of historical weather information. To train the models, 80% of the data is utilized, while the remaining 20% serves as the test set. For example, when predicting temperature using these machine learning algorithms, we leverage this four-month dataset. Unlike traditional weather forecasting, which primarily relies on physics-based simulations and differential equations, this approach harnesses artificial intelligence to improve predictive accuracy. In conclusion, machine learning has significantly transformed weather forecasting, enhancing precision and predictive capabilities. In the coming years, further advancements in these technologies are expected to enhance our ability to predict weather events and mitigate disasters such as hurricanes, tornadoes, and thunderstorms.
+# METHODOLOGY
+"The dataset used in this project was sourced from the 'Global Weather Repository' available on Kaggle. It includes comprehensive weather data from around the world, with four months of detailed historical weather information. This dataset was created to meet the growing need for global weather data and includes variables such as temperature, humidity, wind speed, and precipitation. The data is valuable for visualizing weather patterns and predicting future conditions over short or long periods, such as days, weeks, or months.
+
+Note: The data was collected from various sources and aggregated into the repository, but its accuracy is not guaranteed.
+
+The primary objective of this dataset is to enable the prediction of weather parameters like temperature using the large volume of data provided. Additionally, it can be used to create visualizations that illustrate the impact of global climate phenomena, such as global warming, on weather variables.
+
+In this project, we focus on predicting temperature using the historical weather data from the repository, employing various machine learning algorithms. We apply multiple regression techniques, starting with linear regression, followed by decision tree regression, and finally random forest regression, to forecast future temperature trends."
