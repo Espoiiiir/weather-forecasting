@@ -9,3 +9,21 @@ Note: The data was collected from various sources and aggregated into the reposi
 The primary objective of this dataset is to enable the prediction of weather parameters like temperature using the large volume of data provided. Additionally, it can be used to create visualizations that illustrate the impact of global climate phenomena, such as global warming, on weather variables.
 
 In this project, we focus on predicting temperature using the historical weather data from the repository, employing various machine learning algorithms. We apply multiple regression techniques, starting with linear regression, followed by decision tree regression, and finally random forest regression, to forecast future temperature trends."
+![output](https://github.com/user-attachments/assets/794f06dc-7d9a-4ed9-b48f-fdcaca02dda4)
+![subplot](https://github.com/user-attachments/assets/34132360-cfef-4a35-9969-3aba612a41ed)
+![autocorr](https://github.com/user-attachments/assets/5a4b82d6-b1a7-4fae-ad37-00a10351d2ef)
+![hist](https://github.com/user-attachments/assets/6f445f51-674b-4ea7-9e01-70880b3d56d5)
+# Multiple LinearRegression
+This regression model has high mean absolute error, hence turned out to be the least accurate model. Given below is the plot of y_test and y_pred:
+![linearregression_plot](https://github.com/user-attachments/assets/ff291ac5-d1d8-46e2-bb08-887e3bbddf95)
+# Decision Tree Regression:
+This regression model has medium mean absolute error, hence turned out to be the little accurate model.
+![treeregression_plot](https://github.com/user-attachments/assets/c6e9728e-e606-4f21-bc45-d57876be3227)
+# Random Forest Regression:
+![randomforestregression](https://github.com/user-attachments/assets/e1309e53-c578-4323-8c2c-0c046307679f)
+
+
+
+
+
+
